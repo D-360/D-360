@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-360
-- 👀 I’m interested in Cibersecurity
-- 🌱 I’m currently learning applying IA to Cibersecurity
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning applying AI to Cybersecurity
 - 💞️ I’m looking to collaborate on nothing right now, but open to interesting stuff...
 - 📫 How to reach me ...
 
